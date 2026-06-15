@@ -1,4 +1,4 @@
-public class GravityCalculator {
+public class gravityCalculator {
     public static double distanceAfterTime(double t, double v1) {
         double a = 9.8;
         double distance = 0.5 * a * t * t + v1 * t;
