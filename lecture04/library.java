@@ -1,3 +1,4 @@
+// java auto-detects same-folder .java file and put them into package so to establish certain connection in between, very intuitive
 package lecture04;
 
 import java.util.ArrayList;
